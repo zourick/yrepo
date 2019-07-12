@@ -8568,7 +8568,7 @@ rule Webshell_Ayyildiz {
 		filesize < 112KB and all of them
 }
 
-rule Webshell_zehir {
+rule Webshell_zehir2 {
 	meta:
 		description = "Detects Webshell - rule generated from from files elmaliseker.asp, zehir.asp, zehir.txt, zehir4.asp, zehir4.txt"
 		author = "Florian Roth"
